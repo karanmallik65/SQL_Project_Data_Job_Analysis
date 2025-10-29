@@ -219,13 +219,13 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 - **Business Intelligence and Visualization Tools:** Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
 - **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
 
-**What I Learned**
+# **What I Learned**
 
 Throughout this journey, I supercharged my SQL skills with some powerful upgrades:
 
-🧩 **Complex Query Crafting**: Honed the ability to build advanced SQL queries, seamlessly joining tables and mastering WITH clauses for efficient temporary table creation.
-📊 **Data Aggregation**: Gained mastery over GROUP BY and aggregate functions like COUNT() and AVG() to produce clear, insightful summaries.
-💡 **Analytical Wizardry**: Strengthened real-world problem-solving abilities by transforming complex questions into meaningful, data-driven insights through SQL.
+- 🧩 **Complex Query Crafting**: Honed the ability to build advanced SQL queries, seamlessly joining tables and mastering WITH clauses for efficient temporary table creation.
+- 📊 **Data Aggregation**: Gained mastery over GROUP BY and aggregate functions like COUNT() and AVG() to produce clear, insightful summaries.
+- 💡 **Analytical Wizardry**: Strengthened real-world problem-solving abilities by transforming complex questions into meaningful, data-driven insights through SQL.
 
 # Conclusions
 
